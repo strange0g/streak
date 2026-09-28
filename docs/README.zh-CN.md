@@ -204,9 +204,9 @@ Streak 是一款尊重你的开源 Android 习惯追踪应用。你可以创建�
 | 平台 | 状态 |
 |------|------|
 | Android | ✅ 已支持 |
+| iOS | ✅ 已支持 |
 | Windows | ✅ 已支持 |
 | Linux | ✅ 已支持 |
-| iOS | 🚧 开发中 |
 | macOS | 📅 计划中 |
 
 <details>
