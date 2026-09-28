@@ -218,14 +218,14 @@ instala Streak y lo mantiene actualizado por ti. También está en
 [**IzzyOnDroid**](https://apt.izzysoft.de/fdroid/index/apk/com.streak.app?repo=main)
 y [**OpenAPK**](https://www.openapk.net/streak/com.streak.app/).
 
-Streak funciona en Android, Windows y Linux:
+Streak funciona en Android, iOS, Windows y Linux:
 
 | Plataforma | Estado |
 |------------|--------|
 | Android | ✅ Compatible |
+| iOS | ✅ Compatible |
 | Windows | ✅ Compatible |
 | Linux | ✅ Compatible |
-| iOS | 🚧 En curso |
 | macOS | 📅 Planeado |
 
 <details>
